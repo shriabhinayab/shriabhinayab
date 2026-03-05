@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Abhi 👋  
 
-<!--
-**shriabhinayab/shriabhinayab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+🤖 AI • Machine Learning • Data Science  
+🏎️ Interested in Motorsports Data Analysis
+💡 Always learning, building, and improving
 
-Here are some ideas to get you started:
+## 🧠 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Machine Learning & Model Development  
+🔹 Data Structures & Algorithms  
+🔹 Statistical Analysis & Probability  
+🔹 Data Visualization & Storytelling  
+🔹 Performance Optimization 
+
+## 🛠️ Technical Skills
+
+**Languages:**  
+- C++  
+- Python  
